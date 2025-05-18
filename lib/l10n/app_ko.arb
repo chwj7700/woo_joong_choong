@@ -1,0 +1,517 @@
+{
+  "@@locale": "ko",
+  
+  "appName": "날씨 앱",
+  "@appName": {
+    "description": "앱 이름"
+  },
+  
+  "splashTitle": "개인 맞춤형 날씨 정보",
+  "@splashTitle": {
+    "description": "스플래시 화면 타이틀"
+  },
+  
+  "permissionTitle": "권한 안내",
+  "@permissionTitle": {
+    "description": "권한 안내 페이지 타이틀"
+  },
+  
+  "locationPermission": "위치 권한",
+  "@locationPermission": {
+    "description": "위치 권한 텍스트"
+  },
+  
+  "locationPermissionDescription": "현재 위치의 날씨 정보를 제공하기 위해 위치 권한이 필요합니다.",
+  "@locationPermissionDescription": {
+    "description": "위치 권한 설명"
+  },
+  
+  "notificationPermission": "알림 권한",
+  "@notificationPermission": {
+    "description": "알림 권한 텍스트"
+  },
+  
+  "notificationPermissionDescription": "날씨 변화, 약속 알림 등을 제공하기 위해 알림 권한이 필요합니다.",
+  "@notificationPermissionDescription": {
+    "description": "알림 권한 설명"
+  },
+  
+  "calendarPermission": "캘린더 권한",
+  "@calendarPermission": {
+    "description": "캘린더 권한 텍스트"
+  },
+  
+  "calendarPermissionDescription": "약속 장소와 시간의 날씨 정보를 제공하기 위해 캘린더 권한이 필요합니다.",
+  "@calendarPermissionDescription": {
+    "description": "캘린더 권한 설명"
+  },
+  
+  "login": "로그인",
+  "@login": {
+    "description": "로그인 버튼 텍스트"
+  },
+  
+  "signup": "회원가입",
+  "@signup": {
+    "description": "회원가입 버튼 텍스트"
+  },
+  
+  "email": "이메일",
+  "@email": {
+    "description": "이메일 텍스트"
+  },
+  
+  "password": "비밀번호",
+  "@password": {
+    "description": "비밀번호 텍스트"
+  },
+  
+  "kakaoLogin": "카카오 로그인",
+  "@kakaoLogin": {
+    "description": "카카오 로그인 버튼 텍스트"
+  },
+  
+  "googleLogin": "구글 로그인",
+  "@googleLogin": {
+    "description": "구글 로그인 버튼 텍스트"
+  },
+  
+  "appleLogin": "Apple로 로그인",
+  "@appleLogin": {
+    "description": "애플 로그인 버튼 텍스트"
+  },
+  
+  "profileSetup": "프로필 설정",
+  "@profileSetup": {
+    "description": "프로필 설정 텍스트"
+  },
+  
+  "gender": "성별",
+  "@gender": {
+    "description": "성별 텍스트"
+  },
+  
+  "male": "남성",
+  "@male": {
+    "description": "남성 텍스트"
+  },
+  
+  "female": "여성",
+  "@female": {
+    "description": "여성 텍스트"
+  },
+  
+  "birthYear": "출생연도",
+  "@birthYear": {
+    "description": "출생연도 텍스트"
+  },
+  
+  "coldSensitivity": "추위 민감도",
+  "@coldSensitivity": {
+    "description": "추위 민감도 텍스트"
+  },
+  
+  "heatSensitivity": "더위 민감도",
+  "@heatSensitivity": {
+    "description": "더위 민감도 텍스트"
+  },
+  
+  "sweatLevel": "땀 많은 정도",
+  "@sweatLevel": {
+    "description": "땀 많은 정도 텍스트"
+  },
+  
+  "temperaturePreference": "선호 체감 온도",
+  "@temperaturePreference": {
+    "description": "선호 체감 온도 텍스트"
+  },
+  
+  "verycold": "매우 추움",
+  "@verycold": {
+    "description": "매우 추움 텍스트"
+  },
+  
+  "cold": "추움",
+  "@cold": {
+    "description": "추움 텍스트"
+  },
+  
+  "neutral": "보통",
+  "@neutral": {
+    "description": "보통 텍스트"
+  },
+  
+  "warm": "따뜻함",
+  "@warm": {
+    "description": "따뜻함 텍스트"
+  },
+  
+  "hot": "더움",
+  "@hot": {
+    "description": "더움 텍스트"
+  },
+  
+  "veryhot": "매우 더움",
+  "@veryhot": {
+    "description": "매우 더움 텍스트"
+  },
+  
+  "next": "다음",
+  "@next": {
+    "description": "다음 버튼 텍스트"
+  },
+  
+  "previous": "이전",
+  "@previous": {
+    "description": "이전 버튼 텍스트"
+  },
+  
+  "complete": "완료",
+  "@complete": {
+    "description": "완료 버튼 텍스트"
+  },
+  
+  "home": "홈",
+  "@home": {
+    "description": "홈 탭 텍스트"
+  },
+  
+  "favorites": "즐겨찾기",
+  "@favorites": {
+    "description": "즐겨찾기 탭 텍스트"
+  },
+  
+  "calendar": "캘린더",
+  "@calendar": {
+    "description": "캘린더 탭 텍스트"
+  },
+  
+  "settings": "설정",
+  "@settings": {
+    "description": "설정 탭 텍스트"
+  },
+  
+  "currentLocation": "현재 위치",
+  "@currentLocation": {
+    "description": "현재 위치 텍스트"
+  },
+  
+  "feelsLike": "체감 온도",
+  "@feelsLike": {
+    "description": "체감 온도 텍스트"
+  },
+  
+  "humidity": "습도",
+  "@humidity": {
+    "description": "습도 텍스트"
+  },
+  
+  "windSpeed": "풍속",
+  "@windSpeed": {
+    "description": "풍속 텍스트"
+  },
+  
+  "fineDust": "미세먼지",
+  "@fineDust": {
+    "description": "미세먼지 텍스트"
+  },
+  
+  "ultraFineDust": "초미세먼지",
+  "@ultraFineDust": {
+    "description": "초미세먼지 텍스트"
+  },
+  
+  "recommendation": "오늘의 추천",
+  "@recommendation": {
+    "description": "오늘의 추천 텍스트"
+  },
+  
+  "hourlyForecast": "시간별 예보",
+  "@hourlyForecast": {
+    "description": "시간별 예보 텍스트"
+  },
+  
+  "weeklyForecast": "주간 예보",
+  "@weeklyForecast": {
+    "description": "주간 예보 텍스트"
+  },
+  
+  "addFavorite": "즐겨찾기 추가",
+  "@addFavorite": {
+    "description": "즐겨찾기 추가 버튼 텍스트"
+  },
+  
+  "editFavorite": "즐겨찾기 편집",
+  "@editFavorite": {
+    "description": "즐겨찾기 편집 버튼 텍스트"
+  },
+  
+  "deleteFavorite": "즐겨찾기 삭제",
+  "@deleteFavorite": {
+    "description": "즐겨찾기 삭제 버튼 텍스트"
+  },
+  
+  "searchPlace": "장소 검색",
+  "@searchPlace": {
+    "description": "장소 검색 텍스트"
+  },
+  
+  "connectCalendar": "캘린더 연동하기",
+  "@connectCalendar": {
+    "description": "캘린더 연동 버튼 텍스트"
+  },
+  
+  "disconnectCalendar": "캘린더 연동 해제",
+  "@disconnectCalendar": {
+    "description": "캘린더 연동 해제 버튼 텍스트"
+  },
+  
+  "upcomingEvents": "다가오는 일정",
+  "@upcomingEvents": {
+    "description": "다가오는 일정 텍스트"
+  },
+  
+  "noEvents": "일정이 없습니다",
+  "@noEvents": {
+    "description": "일정 없음 텍스트"
+  },
+  
+  "editPlace": "장소 수정",
+  "@editPlace": {
+    "description": "장소 수정 버튼 텍스트"
+  },
+  
+  "resetAlarm": "알림 재설정",
+  "@resetAlarm": {
+    "description": "알림 재설정 버튼 텍스트"
+  },
+  
+  "profile": "프로필",
+  "@profile": {
+    "description": "프로필 설정 텍스트"
+  },
+  
+  "notifications": "알림 설정",
+  "@notifications": {
+    "description": "알림 설정 텍스트"
+  },
+  
+  "locationServices": "위치 서비스",
+  "@locationServices": {
+    "description": "위치 서비스 설정 텍스트"
+  },
+  
+  "weatherAlerts": "날씨 변화 알림",
+  "@weatherAlerts": {
+    "description": "날씨 변화 알림 텍스트"
+  },
+  
+  "dustAlerts": "미세먼지 알림",
+  "@dustAlerts": {
+    "description": "미세먼지 알림 텍스트"
+  },
+  
+  "rainAlerts": "강수 알림",
+  "@rainAlerts": {
+    "description": "강수 알림 텍스트"
+  },
+  
+  "uvAlerts": "자외선 알림",
+  "@uvAlerts": {
+    "description": "자외선 알림 텍스트"
+  },
+  
+  "calendarAlerts": "캘린더 연동 알림",
+  "@calendarAlerts": {
+    "description": "캘린더 연동 알림 텍스트"
+  },
+  
+  "doNotDisturbTime": "방해금지 시간",
+  "@doNotDisturbTime": {
+    "description": "방해금지 시간 텍스트"
+  },
+  
+  "temperatureUnit": "온도 단위",
+  "@temperatureUnit": {
+    "description": "온도 단위 텍스트"
+  },
+  
+  "celsius": "섭씨 (°C)",
+  "@celsius": {
+    "description": "섭씨 텍스트"
+  },
+  
+  "fahrenheit": "화씨 (°F)",
+  "@fahrenheit": {
+    "description": "화씨 텍스트"
+  },
+  
+  "useCurrentLocation": "현재 위치 사용",
+  "@useCurrentLocation": {
+    "description": "현재 위치 사용 텍스트"
+  },
+  
+  "defaultLocation": "기본 위치 설정",
+  "@defaultLocation": {
+    "description": "기본 위치 설정 텍스트"
+  },
+  
+  "feedbackHistory": "피드백 내역",
+  "@feedbackHistory": {
+    "description": "피드백 내역 텍스트"
+  },
+  
+  "appInfo": "앱 정보",
+  "@appInfo": {
+    "description": "앱 정보 텍스트"
+  },
+  
+  "version": "버전",
+  "@version": {
+    "description": "버전 텍스트"
+  },
+  
+  "termsOfService": "서비스 이용 약관",
+  "@termsOfService": {
+    "description": "서비스 이용 약관 텍스트"
+  },
+  
+  "privacyPolicy": "개인정보 처리방침",
+  "@privacyPolicy": {
+    "description": "개인정보 처리방침 텍스트"
+  },
+  
+  "contact": "문의하기",
+  "@contact": {
+    "description": "문의하기 텍스트"
+  },
+  
+  "openSourceLicenses": "오픈소스 라이선스",
+  "@openSourceLicenses": {
+    "description": "오픈소스 라이선스 텍스트"
+  },
+  
+  "feedbackQuestion": "오늘 추천해 드린 코디는 어떠셨나요?",
+  "@feedbackQuestion": {
+    "description": "피드백 질문 텍스트"
+  },
+  
+  "tooCold": "추웠어요",
+  "@tooCold": {
+    "description": "너무 추웠다는 피드백 텍스트"
+  },
+  
+  "justRight": "딱 좋았어요",
+  "@justRight": {
+    "description": "적당했다는 피드백 텍스트"
+  },
+  
+  "tooHot": "더웠어요",
+  "@tooHot": {
+    "description": "너무 더웠다는 피드백 텍스트"
+  },
+  
+  "notSure": "잘 모르겠어요",
+  "@notSure": {
+    "description": "잘 모르겠다는 피드백 텍스트"
+  },
+  
+  "additionalComments": "추가 의견",
+  "@additionalComments": {
+    "description": "추가 의견 입력란 텍스트"
+  },
+  
+  "submit": "제출",
+  "@submit": {
+    "description": "제출 버튼 텍스트"
+  },
+  
+  "thankYouForFeedback": "소중한 의견 감사합니다!",
+  "@thankYouForFeedback": {
+    "description": "피드백 감사 메시지"
+  },
+  
+  "rainyDayAlert": "{place}에 비 예보가 있어요 ☔",
+  "@rainyDayAlert": {
+    "description": "비 예보 알림 메시지",
+    "placeholders": {
+      "place": {
+        "type": "String",
+        "example": "서울"
+      }
+    }
+  },
+  
+  "appointmentWeatherAlert": "{appointmentName}이 있는 {date} {place}에 {weather} 예보가 있어요",
+  "@appointmentWeatherAlert": {
+    "description": "약속 날씨 알림 메시지",
+    "placeholders": {
+      "appointmentName": {
+        "type": "String",
+        "example": "회의"
+      },
+      "date": {
+        "type": "String",
+        "example": "03/15"
+      },
+      "place": {
+        "type": "String",
+        "example": "강남"
+      },
+      "weather": {
+        "type": "String",
+        "example": "비"
+      }
+    }
+  },
+  
+  "noLocationInfo": "장소 정보 없음",
+  "@noLocationInfo": {
+    "description": "장소 정보 없음 텍스트"
+  },
+  
+  "enterLocation": "약속 장소를 입력해주세요",
+  "@enterLocation": {
+    "description": "약속 장소 입력 안내 텍스트"
+  },
+  
+  "searchLocationHint": "장소명을 입력하거나 지도에서 선택하세요",
+  "@searchLocationHint": {
+    "description": "장소 검색 힌트 텍스트"
+  },
+  
+  "confirm": "확인",
+  "@confirm": {
+    "description": "확인 버튼 텍스트"
+  },
+  
+  "cancel": "취소",
+  "@cancel": {
+    "description": "취소 버튼 텍스트"
+  },
+  
+  "unknown": "알 수 없음",
+  "@unknown": {
+    "description": "알 수 없음 텍스트"
+  },
+  
+  "good": "좋음",
+  "@good": {
+    "description": "좋음 상태 텍스트"
+  },
+  
+  "moderate": "보통",
+  "@moderate": {
+    "description": "보통 상태 텍스트"
+  },
+  
+  "bad": "나쁨",
+  "@bad": {
+    "description": "나쁨 상태 텍스트"
+  },
+  
+  "veryBad": "매우 나쁨",
+  "@veryBad": {
+    "description": "매우 나쁨 상태 텍스트"
+  }
+} 
